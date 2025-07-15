@@ -1,49 +1,56 @@
-<h1>Hi, I'm Vaibhav! </h1>
+<h1>Hi, I'm Vaibhav! 👋</h1>
 
-<h2>👨‍💻  <a href="https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation" target="_blank">
-  Quantium Data Analytics Job Simulation</a><br>
+<!-- Projects Section -->
+<h2>📂 Projects</h2>
+<ul>
+  <li>
+    <strong>👨‍💻 <a href="https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation" target="_blank">
+      Quantium Data Analytics Job Simulation</a></strong>
+    <ul>
+      <li>Task 1: Data cleaning, feature engineering, and exploratory data analysis (EDA)</li>
+      <li>Task 2: Trial vs control store analysis to evaluate business impact</li>
+      <li>Task 3: Strategic reporting with actionable insights and visualizations</li>
+    </ul>
+  </li>
+</ul>
 
-  - Task 1: Data cleaning, feature engineering, and exploratory data analysis (EDA)
-  - Task 2: Trial vs control store analysis to evaluate business impact
-  - Task 3: Strategic reporting with actionable insights and visualizations
-<h3>🤖 CodSoft AI Internship
+<!-- Internships Section -->
+<h2>🎓 Internships</h2>
+<ul>
+  <li>
+    <strong>🤖 <a href="https://github.com/VaibhavKela/CodSoft_Internship" target="_blank">
+      CodSoft AI Internship (Artificial Intelligence)</a></strong>
+    <ul>
+      <li>AI Chatbot development using rule-based NLP</li>
+      <li>Movie Recommendation System based on genre similarity</li>
+      <li>Tic-Tac-Toe game with Minimax algorithm (Computer vs Human)</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- Certifications Section -->
+<h2>📜 Certifications</h2>
+<ul>
+  <li>📊 <a href="https://www.credly.com/badges/6cf51c8c-284a-4e3c-9496-ee68deb7ea26/linked_in?t=s2dq2g" target="_blank">
+    Data Analytics Essentials – CISCO Networking Academy</a></li>
+  <li>🐍 <a href="https://www.guvi.in/certificate?id=H9I09E96cS281141Yy" target="_blank">
+    Python Programming – GUVI Geek Networks</a></li>
+  <li>📈 <a href="https://upskill.tutedude.com/certificate/TD-VAIB-DA-1138" target="_blank">
+    Data Analyst Course – Tutedude</a></li>
+  <li>🤖 <a href="https://drive.google.com/file/d/1VabaJ0-hMpTovkpx9B5gMqzmIK7A3ONA/view" target="_blank">
+    Artificial Intelligence Internship – CodSoft</a></li>
+  <li>📊 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_bdXqg29bcrtLAZPvn_1752436094178_completion_certificate.pdf" target="_blank">
+    Data Analytics Job Simulation – Quantium (Forage)</a></li>
+</ul>
+
+<!-- Connect Section -->
+<h2>🤳 Connect with me</h2>
+
 <p>
-  Completed a 4-week virtual internship on Artificial Intelligence at CodSoft (Sept–Oct 2023), working on:
+  <a href="https://www.linkedin.com/in/vaibhav-kela-860189230" target="_blank">
+    <img align="left" alt="Vaibhav | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/VAIBHAVKELA/" target="_blank">
+    <img align="left" alt="Vaibhav | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </p>
-<ul>
-  <li>AI Chatbot development</li>
-  <li>Basic Computer Vision project</li>
-  <li>Machine Learning fundamentals with model training</li>
-</ul><h3>
-
-<h4>📜 Certifications</h2>
-<ul>
-  <li>Data Analytics Essentials – Cisco Networking Academy (Oct 2023)</li>
-  <li>Python Programming – GUVI Geek Networks (Aug 2023)</li>
-  <li>Data Analyst Course – Tutedude (2024)</li>
-</ul><h4>
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/VAIBHAVKELA/
-[linkedin]: www.linkedin.com/in/vaibhav-kela-860189230
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
