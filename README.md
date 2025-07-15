@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Quantium Data Analytics Job Simulation</b>
+  - [Task 1: Data cleaning, feature engineering, and exploratory data analysis (EDA)](https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation)
+  - [Task 2: Trial vs control store analysis to evaluate business impact](https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation)
+  - [Task 3: Strategic reporting with actionable insights and visualizations](https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation)
 
 
 <h2> 🤳 Connect with me:</h2>
