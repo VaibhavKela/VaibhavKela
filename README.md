@@ -1,7 +1,7 @@
 <h1>Hi, I'm Vaibhav! 👋</h1>
 
-<!-- Projects Section -->
-<h2>📂 Projects</h2>
+<!-- Python Projects Section -->
+<h2>🐍 Python Projects</h2>
 <ul>
   <li>
     <strong>👨‍💻 <a href="https://github.com/VaibhavKela/Quantium-Data-Analytics-Simulation" target="_blank">
@@ -10,6 +10,20 @@
       <li>Task 1: Data cleaning, feature engineering, and exploratory data analysis (EDA)</li>
       <li>Task 2: Trial vs control store analysis to evaluate business impact</li>
       <li>Task 3: Strategic reporting with actionable insights and visualizations</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- Power BI Projects Section -->
+<h2>📊 Power BI Projects</h2>
+<ul>
+  <li>
+    <strong>📈 <a href="https://github.com/VaibhavKela/PowerBI-Sales-Dashboard" target="_blank">
+      Power BI Sales Analytics Dashboard</a></strong>
+    <ul>
+      <li>Built an interactive sales dashboard with KPIs, MoM trends, and profit metrics</li>
+      <li>Used star schema, DAX measures, bookmarks, and tooltips for enhanced UX</li>
+      <li>Project based on Chandoo's Power BI YouTube tutorial</li>
     </ul>
   </li>
 </ul>
