@@ -18,7 +18,7 @@
 <h2>📊 Power BI Projects</h2>
 <ul>
   <li>
-    <strong>🧱 <a href="https://github.com/VaibhavKela/lego-set-explorer-powerbi" target="_blank">
+    <strong>🧱 <a href="https://github.com/VaibhavKela/LEGO-Set-Dashboard" target="_blank">
       LEGO Set Explorer - Analytics Dashboard</a></strong>
     <ul>
       <li>Interactive dashboard analyzing 1,000+ LEGO sets with advanced filtering and price categorization</li>
