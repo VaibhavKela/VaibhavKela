@@ -18,6 +18,15 @@
 <h2>📊 Power BI Projects</h2>
 <ul>
   <li>
+    <strong>🧱 <a href="https://github.com/VaibhavKela/lego-set-explorer-powerbi" target="_blank">
+      LEGO Set Explorer - Analytics Dashboard</a></strong>
+    <ul>
+      <li>Interactive dashboard analyzing 1,000+ LEGO sets with advanced filtering and price categorization</li>
+      <li>Custom DAX measures, conditional columns, and decomposition tree for hierarchical analysis</li>
+      <li>Guided project from Maven Analytics with 15+ interactive components and dynamic image integration</li>
+    </ul>
+  </li>
+  <li>
     <strong>📈 <a href="https://github.com/VaibhavKela/PowerBI-Sales-Dashboard" target="_blank">
       Power BI Sales Analytics Dashboard</a></strong>
     <ul>
@@ -27,6 +36,7 @@
     </ul>
   </li>
 </ul>
+
 
 <!-- Internships Section -->
 <h2>🎓 Internships</h2>
