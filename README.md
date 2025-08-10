@@ -5,7 +5,7 @@
 <h2>🗄 SQL Projects</h2>
 <ul>
   <li>
-    <strong>✈️ <a href="https://github.com/VaibhavKela/Flight-Data-Analysis" target="_blank">
+    <strong>✈️ <a href="https://github.com/VaibhavKela/Flight-Data-Analysis-" target="_blank">
       Flight Data Analysis (Simulated Airline Dataset)</a></strong>
     <ul>
       <li>Designed a relational database schema with tables for Airports, Airlines, Flights, Passengers, and Tickets</li>
