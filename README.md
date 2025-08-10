@@ -1,5 +1,19 @@
 <h1>Hi, I'm Vaibhav! 👋</h1>
 
+
+<!-- SQL Projects Section -->
+<h2>🗄 SQL Projects</h2>
+<ul>
+  <li>
+    <strong>✈️ <a href="https://github.com/VaibhavKela/Flight-Data-Analysis" target="_blank">
+      Flight Data Analysis (Simulated Airline Dataset)</a></strong>
+    <ul>
+      <li>Designed a relational database schema with tables for Airports, Airlines, Flights, Passengers, and Tickets</li>
+      <li>Developed advanced SQL queries using JOINs, CTEs, Window Functions, Aggregations, and CASE statements</li>
+      <li>Generated insights on busiest airports, ticket sales per airline, passenger travel history, and route profitability</li>
+    </ul>
+  </li>
+</ul>
 <!-- Python Projects Section -->
 <h2>🐍 Python Projects</h2>
 <ul>
