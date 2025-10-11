@@ -1,6 +1,5 @@
 <h1>Hi, I'm Vaibhav! 👋</h1>
 
-
 <!-- SQL Projects Section -->
 <h2>🗄 SQL Projects</h2>
 <ul>
@@ -49,8 +48,16 @@
       <li>Project based on Chandoo's Power BI YouTube tutorial</li>
     </ul>
   </li>
+  <li>
+    <strong>🧑‍💼 <a href="https://github.com/VaibhavKela/PowerBI-HR-Dashboard" target="_blank">
+      HR Analytics Power BI Dashboard</a></strong>
+    <ul>
+      <li>Developed an interactive HR dashboard using Power BI as per Chandoo's full HR analytics YouTube masterclass</li>
+      <li>Analyzed key HR metrics: headcount, salary trends, leave balance, qualification vs. salary, and employee filters</li>
+      <li>Utilized Power Query, Power Pivot, DAX, and various visuals for insights across staff distribution, top earners, and growth trends</li>
+    </ul>
+  </li>
 </ul>
-
 
 <!-- Internships Section -->
 <h2>🎓 Internships</h2>
