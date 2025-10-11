@@ -49,7 +49,7 @@
     </ul>
   </li>
   <li>
-    <strong>🧑‍💼 <a href="https://github.com/VaibhavKela/PowerBI-HR-Dashboard" target="_blank">
+    <strong>🧑‍💼 <a href="https://github.com/VaibhavKela/HR-Data-Analytics" target="_blank">
       HR Analytics Power BI Dashboard</a></strong>
     <ul>
       <li>Developed an interactive HR dashboard using Power BI as per Chandoo's full HR analytics YouTube masterclass</li>
